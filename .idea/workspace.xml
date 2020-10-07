@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="982ff585-3026-43c6-9b57-5bf11cd9189e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iRokkLU6XKaRPBtvEUssv2UhBc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL 5448\WebstormProjects\helloWorld\javascript" />
+      <recent name="C:\Users\DELL 5448\WebstormProjects\helloWorld\form" />
+      <recent name="C:\Users\DELL 5448\WebstormProjects\helloWorld\Bài tập toán tử" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="982ff585-3026-43c6-9b57-5bf11cd9189e" name="Default Changelist" comment="" />
+      <created>1601879910568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601879910568</updated>
+      <workItem from="1601879911631" duration="8704000" />
+      <workItem from="1601893731974" duration="51000" />
+      <workItem from="1601904942804" duration="5966000" />
+      <workItem from="1601945800317" duration="12150000" />
+      <workItem from="1601993701061" duration="661000" />
+      <workItem from="1602031925714" duration="9817000" />
+      <workItem from="1602052156206" duration="8883000" />
+      <workItem from="1602061119864" duration="331000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="164" key="run.anything.popup" timestamp="1601910609396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1601910609396" />
+    <state x="399" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1602045419427">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="399" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1602045419427" />
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head.>
+    <meta charset="UTF-8">
+    <title>Chuyển đổi tiền tệ</title>
+</head.>
+<body>
+ <p id="result"></p>
+<form>
+    Amount
+    <input type="number" id="nb">
+    From Currency
+    <select id="sl1">
+        <option value="1">USD</option>
+        <option value="23000">VietNam</option>
+    </select>To Currency
+    <select id="sl2">
+        <option value="23000">VietNam</option>
+        <option value="1">USD</option>
+    </select>
+    <input type="button" onclick="anvaoday()" value="convert">
+</form>
+</body>
+<script>
+    function anvaoday() {
+        let nb = document.getElementById("nb").value;
+        let sl1 = document.getElementById("sl1").value;
+        let sl2 = document.getElementById("sl2").value;
+        let results = nb * sl1 / sl2;
+        document.getElementById("result").innerHTML = "Số tiền là:" + results;
+    }
+
+
+</script>
+</html>
